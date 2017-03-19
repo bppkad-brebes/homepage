@@ -15,8 +15,8 @@ email: admin@pajak-daerah.brebeskab.go.id
 #facebook_username:
 #twitter_username:
 #github_username:
-address: Jl Veteran no. 11 Brebes
-  - line:
+address: 
+  - line: Jl Veteran no. 11 Brebes
   - line:
   # Feel free to add more lines here 
 telephone: (0283) 671-667
