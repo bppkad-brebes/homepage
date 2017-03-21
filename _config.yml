@@ -1,26 +1,26 @@
 
 # Site settings
-title: BPPKAD
-email: admin@pajak-daerah.brebeskab.go.id
-#description: > # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "" # the base hostname & protocol for your site
+title: BPPKAD 
+email: tamami@pajak-daerah.brebeskab.go.id
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: bppkad
-email: admin@pajak-daerah.brebeskab.go.id
-#facebook_username:
-#twitter_username:
-#github_username:
-address: 
-  - line: Jl Veteran no. 11 Brebes
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line:
   - line:
   # Feel free to add more lines here 
-telephone: (0283) 671-667
-copyright: BPPKAD
+telephone:
+copyright:
 
 # API settings
 google_api_key:
